@@ -10,7 +10,7 @@ export const profile = {
   name: "Abhishek Puri",
   role: "Software Programmer",
   tagline: "Backend-leaning software engineer building reliable systems in fintech.",
-  location: "Noida, Delhi NCR, India",
+  location: "",
   yearsExperience: "1+",
   email: "iabhishek023@gmail.com",
   phone: "+91 9315014084",
